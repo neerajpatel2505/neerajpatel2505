@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Cybrom Technology Pvt. Ltd**
+- 🔭 I’m currently working on **Miracle IT Career Academy**
 
-- 👯 I’m looking to collaborate on **Cybrom Technology Pvt. Ltd**
+- 👯 I’m looking to collaborate on **Miracle IT Career Academy**
 
 - 📫 How to reach me **nkurmbanshi@yahoo.com**
 
