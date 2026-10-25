@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Neeraj%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Animated profile header"/>
 
-# Neeraj Kumar
-
 ### Python Backend Developer | Django | Django REST Framework
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+%7C+DRF+%7C+REST+APIs;Building+Maintainable+Backend+Solutions;Azure+Cloud+%7C+Terraform+%7C+DevOps;Learning%2C+Building%2C+Sharing" alt="Animated typing introduction"/>
