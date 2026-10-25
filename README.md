@@ -1,19 +1,19 @@
- 
-<div align="center">
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Neeraj%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Animated profile header"/>
 
 # Neeraj Kumar
-### Python Backend Developer | Django & REST API Specialist
 
-**Building scalable backend applications, secure REST APIs, and practical software solutions.**
+### Python Backend Developer | Django | Django REST Framework
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+Django+REST+Framework;Backend+Development+%7C+REST+API+Design;SQL+%7C+Git+%7C+Azure+%7C+Terraform;Continuous+Learning+%7C+Knowledge+Sharing" alt="Professional animated typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+%7C+DRF+%7C+REST+APIs;Building+Maintainable+Backend+Solutions;Azure+Cloud+%7C+Terraform+%7C+DevOps;Learning%2C+Building%2C+Sharing" alt="Animated typing introduction"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/neeraj-kumar-20936b68/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/neerajpatel2505">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/neeraj-kumar-20936b68/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -21,130 +21,111 @@
 
 ---
 
-## Professional Summary
+## 👨‍💻 About Me
 
-I am a software professional focused on **Python backend development, Django, and Django REST Framework (DRF)**. I work with backend application development, RESTful API design, database integration, and software development workflows.
+I am a software professional focused on **Python, Django, and Django REST Framework (DRF)**, with an interest in building maintainable backend applications and well-structured REST APIs.
 
-My technical interests also include **Microsoft Azure, Terraform, cloud infrastructure, and DevOps automation**. Alongside development, I enjoy sharing technical knowledge and helping learners understand industry-relevant concepts through practical examples.
+I also explore cloud technologies and infrastructure automation, including Microsoft Azure and Terraform. Alongside software development, I enjoy technical training, practical demonstrations, and sharing knowledge with aspiring developers.
 
-- **Primary focus:** Python, Django, Django REST Framework
-- **Backend development:** REST APIs, authentication, CRUD operations
-- **Database technologies:** SQL, relational database concepts
-- **Tools and workflow:** Git, GitHub, Jira
-- **Additional interests:** Azure Cloud, Terraform, Docker, CI/CD
+- **Primary expertise:** Python, Django, Django REST Framework
+- **Backend development:** REST API design, CRUD operations, serializers
+- **Databases:** SQL and relational database concepts
+- **Tools:** Git, GitHub, Jira
+- **Additional technologies:** Azure, Terraform, Docker and CI/CD
+- **Interests:** Backend engineering, cloud infrastructure and technical education
 
-## Technical Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🛠️ Technical Skills
 
 ### Backend Development
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
 </p>
 
-### Databases
+### Databases and Frontend
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### Frontend Integration
+### Cloud and DevOps
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
-</td>
-<td width="50%" valign="top">
+## 🚀 Development Focus
 
-### Cloud & DevOps
+- Developing backend applications with Python and Django.
+- Building REST APIs using Django REST Framework.
+- Working with serializers, models, database integration and CRUD operations.
+- Exploring API authentication, permissions and application security.
+- Practicing cloud infrastructure automation with Azure and Terraform.
+- Sharing programming knowledge through hands-on learning and training.
 
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
+## 📌 Featured Projects
 
-### Development Tools
+*Replace the example repository links below with your actual public GitHub project URLs.*
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-### Engineering Practices
-
-- REST API development
-- Database integration
-- Version control
-- Code maintenance and debugging
-- Cloud and infrastructure automation
-
-</td>
-</tr>
-</table>
-
-## What I Focus On
-
-- Developing maintainable backend applications using Python and Django.
-- Designing REST APIs with Django REST Framework.
-- Implementing database-driven application features.
-- Exploring secure API development and authentication patterns.
-- Learning and applying cloud infrastructure and DevOps practices.
-- Sharing technical knowledge through training and practical demonstrations.
-
-## Featured Projects
-
-> Add your actual public repositories in this section so recruiters can review your code and implementation.
-
-| Project | Description | Technologies |
+| Project | Technologies | Focus |
 |---|---|---|
-| Django REST API | Backend API with CRUD operations and serializers | Python, Django, DRF |
-| Database-Driven Web Application | Web application with models, forms, and database integration | Python, Django, SQL |
-| Cloud Infrastructure Automation | Infrastructure-as-code learning or implementation project | Azure, Terraform |
+| Django REST API | Python, Django, DRF | API development and CRUD |
+| Database-Driven Application | Python, Django, SQL | Models and database integration |
+| Cloud Automation | Azure, Terraform | Infrastructure as Code |
 
-**Note:** Replace these example entries with links to your real repositories before publishing.
-
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=neerajpatel2505&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=neerajpatel2505&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajpatel2505&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajpatel2505&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=neerajpatel2505&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=neerajpatel2505&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-## Let's Connect
-
-I welcome conversations about Python development, Django, REST APIs, backend engineering, cloud technologies, and technical learning.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/neeraj-kumar-20936b68/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-</p>
+## 🐍 Contribution Activity
 
 <div align="center">
 
-**Build. Learn. Improve. Repeat.**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=5&section=footer" alt="Footer divider"/>
+<img src="https://raw.githubusercontent.com/neerajpatel2505/neerajpatel2505/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
+
+## 🤝 Connect With Me
+
+I welcome opportunities to connect with developers, learners, and professionals interested in Python, backend engineering, REST APIs, cloud technologies, and technical education.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/neeraj-kumar-20936b68/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/neerajpatel2505">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+
+<br/><br/>
+
+**Build with purpose. Learn continuously. Share knowledge.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Animated footer"/>
+
+</div>
+
 
